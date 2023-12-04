@@ -3,7 +3,7 @@ int main(){
 	int n,f1=0,f2=1,f3=1;
 	scanf("%d",&n);
 	if(f1==n){
-		printf("True");	
+		printf("Ture");	
 	}
 	else{
 		f3=f1+f2;
